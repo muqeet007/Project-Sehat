@@ -1,8 +1,4 @@
-
----
-
-### **3. Project Sehat (Procedural Version) - `project sehat PF.c`**
-```markdown
+### **3. Project Sehat (Procedural Version) - `project sehat PF.c`*
 # Project Sehat (Procedural Version)
 
 ## Overview
